@@ -56,7 +56,7 @@ src/
 │   └── Item.js
 │   └── Stats.js
 │   └── Logo.js
-├── App.js
+│   └── App.js
 ├── index.js
 └── index.css
 ```
